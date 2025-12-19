@@ -4,9 +4,9 @@
 반려동물을 사람이 많아지기 떄문에 관리하기 쉽게 하기위해 웹을 만들게 되었다.
 
 ## 🧠 사용 기술
-- Node.js
-- React
-- 몽고DB
+- JavaScript
+- Beact native
+- DB : 몽고DB
 
 ## ⚙ 구현 내용
 - 캘린더 기능
